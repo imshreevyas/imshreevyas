@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋 I'm [Your Name]</h1>
+<h1 align="center">Hi 👋 I'm Shrikunj Vyas</h1>
 
 <h3 align="center">
 Senior Software Development Engineer | Laravel Expert | Security Engineer | AI Builder
@@ -72,7 +72,7 @@ Application Security Platform focused on
 - CodeIgniter
 - REST APIs
 - GraphQL
-- Node.js (Learning)
+- Node.js
 
 ### Database
 
@@ -159,13 +159,10 @@ Application Security Platform focused on
 ## 📫 Connect
 
 LinkedIn:
-[Your LinkedIn]
+https://in.linkedin.com/in/shrikunjvyas
 
 Portfolio:
 [Coming Soon]
-
-Email:
-your@email.com
 
 ---
 
